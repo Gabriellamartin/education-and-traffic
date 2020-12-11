@@ -1,0 +1,389 @@
+COMMUNITY_AREA_NAMES,ADDRESS,ZIP_CODES,LATITUDE,LONGITUDE
+'Englewood','301 W. Marquette Road',60621,41.7726,-87.6324
+"'Washington Park',",'5556 S. Michigan Ave.',60637,41.793,-87.6226
+"'Humboldt Park',",'526 N. Troy St.',60624,41.8912,-87.7053
+"'Grand Boulevard',",'727 E. 50th Pl',60615,41.803,-87.6078
+"'Uptown',",'4878 N. Magnolia Ave.',60640,41.9712,-87.6612
+"'South Shore',",'7020 S. Jeffrey Blvd.',60649,41.7674,-87.5765
+"'Near West Side',",'216 S. Hoyne Ave.',60612,41.8781,-87.6792
+"'Albany Park',",'4444 W. Lawrence Ave.',60630,41.9682,-87.7397
+"'Grand Boulevard',",'4448 S. State St.',60609,41.8132,-87.6263
+"'Logan Square',",'1955 N. St. Louis Ave.',60647,41.9173,-87.7134
+"'Humboldt Park',",'3541 W. North Ave.',60647,41.9099,-87.7161
+"'Near North Side',",'1512 N. LaSalle St.',60610,41.9096,-87.6332
+"'North Lawndale',",'1256-60 S. Washtenaw Ave.',60608,41.8648,-87.6935
+"'Pullman',",'901 E. 104th St.',60628,41.7056,-87.6011
+"'Auburn Gresham',",'1222 W. 79th St.',60620,41.7506,-87.6547
+"'Humboldt Park',",'649 N. Sawyer Ave.',60624,41.8934,-87.7076
+"'New City',",'4600 S. Wood St.',60609,41.8103,-87.67
+"'West Lawn',",'6800 S. Keating Ave.',60629,41.7695,-87.7405
+"'North Lawndale',",'1303-15 S. Fairfield Ave.',60608,41.8645,-87.6944
+"'Lower West Side',",'2012 W. 17th St.',60608,41.8587,-87.6766
+"'Austin',",'557 N. Pine Ave.',60644,41.8905,-87.7632
+"'West Ridge',",'6057 N. Lincoln Ave.',60659,41.9919,-87.7095
+"'West Ridge',",'6142 N. California Ave.',60659,41.9934,-87.6996
+"'East Garfield Park',",'908 S. Central Park Ave.',60624,41.8697,-87.7157
+"'Humboldt Park',",'3145 W. Franklin Blvd.',60624,41.89,-87.7057
+"'Uptown',",'4130 N. Kenmore Ave.',60640,41.9576,-87.6564
+"'Kenwood',",'837 E. 47th St.',60653,41.8094,-87.605
+"'Logan Square',",'2733 W. Belden Ave.',60647,41.9228,-87.6967
+"'West Town',",'1100 N. Ashland Ave.',60622,41.9016,-87.6676
+"'Douglas',",'3506 S. State St.',60609,41.8308,-87.6268
+"'Woodlawn',",'6400 S. Maryland Ave.',60637,41.7786,-87.6048
+"'Belmont Cragin',",'2917-39 N. Central Ave.',60634,41.9336,-87.7662
+"'Oakland',",'3750 S. Cottage Grove Ave.',60653,41.8264,-87.6083
+"'Oakland',",'1125 E. Bowen Ave.',60653,41.8187,-87.5989
+"'Roseland',",'63 E. 104th St.',60628,41.7053,-87.621
+"'Douglas',",'3845 S. State St.',60609,41.8242,-87.6263
+"'Belmont Cragin',",'6045 W. Grand Ave.',60639,41.9208,-87.7775
+"'North Lawndale',",'10 N. Hamlin Ave.',60613,41.8811,-87.7209
+"'West Town',",'1154 N. Campbell St.',60622,41.9029,-87.6896
+"'East Garfield Park',",'3333 W. Maypole Ave.',60624,41.8835,-87.71
+"'Austin',",'126 S. Central Ave.',60644,41.8785,-87.7649
+"'West Englewood',",'1656 W. 63rd St.',60636,41.7795,-87.6665
+"'Humboldt Park',",'642 N. Kedzie Ave.',60612,41.8932,-87.7066
+"'Humboldt Park',",'541 N. Homan Ave.',60624,41.8915,-87.7112
+"'Uptown',",'850 W. Eastwood Ave.',60640,41.9665,-87.6517
+"'Washington Park',",'5441 S. Michigan Ave.',60615,41.7953,-87.6223
+"'Lower West Side',",'2014 S. Racine Ave.',60608,41.8547,-87.6565
+"'Lakeview',",'734 W. Sheridan Rd.',60613,41.9529,-87.6493
+"'Loop',",'188 W. Randolph St.',60601,41.8846,-87.6338
+"'Austin',",'5327 W. Chicago Ave.',60651,41.8948,-87.7593
+"'Woodlawn',",'6146 S. Kenwood Ave.',60637,41.7828,-87.5933
+"'Douglas',",'3700 S. Dearborn St.',60609,41.8272,-87.6278
+"'Grand Boulevard',",'436 E. 47th St.',60653,41.8095,-87.6148
+"'North Park',",'5801 N. Pulaski Road',60646,41.9859,-87.7284
+"'Woodlawn',",'6522 S. Ingleside Ave.',60637,41.7761,-87.6023
+"'South Deering',",'2260 E. 99th St.',60617,41.7154,-87.5687
+"'Kenwood',",'4657 S. Drexel Blvd',60653,41.8097,-87.6038
+"'Near West Side',",'110 N. Wood St.',60612,41.8836,-87.672
+"'Oakland',",'1061 E. 41st Place',60653,41.8198,-87.5999
+"'East Garfield Park',",'3607 W. Polk St.',60624,41.8707,-87.7159
+"'Roseland',",'10513 S. Michigan Ave.',60628,41.7031,-87.6205
+"'Garfield Ridge',",'5839 S. Harlem Ave.',60638,41.7854,-87.8011
+"'North Lawndale',",'1129 S. Sacramento Ave.',60612,41.8674,-87.7007
+"'Bridgeport',",'2825 S. Halsted St.',60608,41.8427,-87.6462
+"'Near North Side',",'1200 N. Clybourn Ave.',60622,41.9038,-87.6398
+"'Lincoln Square',",'4618 N. Western Ave.',60625,41.9655,-87.689
+"'South Chicago',",'3251 E. 92nd St.',60617,41.7282,-87.5447
+"'West Garfield Park',",'2822 W. Jackson Blvd.',60612,41.8775,-87.6971
+"'Near North Side',",'1311 N. Halsted St.',60642,41.9054,-87.648
+"'North Lawndale',",'1859 S. Pulaski Ave.',60623,41.8553,-87.7247
+"'Grand Boulevard',",'4642 S. Michigan Ave.',60653,41.8098,-87.623
+"'Near West Side',",'727 W. Lake St.',60661,41.8856,-87.6469
+"'Humboldt Park',",'601 N. Drake Ave',60624,41.8919,-87.7148
+"'Uptown',",'4801 N. Ravenswood Ave.',60640,41.969,-87.674
+"'Grand Boulevard',",'400 E. 41st St.',60653,41.8203,-87.6165
+"'Hyde Park',",'5432 S. Woodlawn Ave.',60615,41.797,-87.5967
+"'West Town',",'1611 W. Division St.',60622,41.9032,-87.668
+"'North Lawndale',",'2652 W. 12th Pl',60608,41.8658,-87.6932
+"'East Garfield Park',",'705-23 S. Independence Ave.',60624,41.8724,-87.7196
+"'Near South Side',",'1801 S. Wabash St.',60616,41.8578,-87.6255
+"'Oakland',",'1106 E. 42nd Pl',60653,41.8181,-87.5994
+"'Humboldt Park',",'3500 W. Ohio St.',60624,41.8919,-87.7138
+"'Grand Boulevard',",'116 E. 43rd St.',60653,41.8167,-87.6223
+"'Humboldt Park',",'614 N. Spaulding Ave.',60624,41.8924,-87.709
+"'Woodlawn',",'6446 S. Kenwood Ave.',60637,41.7775,-87.5931
+"'Humboldt Park',",'3541 W. North Ave.',60647,41.9099,-87.7161
+"'Albany Park',",'2800 W. Montrose Ave.',60618,41.9614,-87.6985
+"'North Lawndale',",'4339-47 W. 18th Pl',60623,41.8558,-87.7339
+"'Rogers Park',",'6928 N. Wayne Ave.',60626,42.0076,-87.6652
+"'Englewood',",'6002 S. Halsted St.',60621,41.785,-87.6451
+"'Montclare',",'2931-57 N. Harlem Ave.',60707,41.9335,-87.8064
+"'Oakland',",'1140 E. 42nd Pl',60653,41.8181,-87.5981
+"'Near West Side',",'1355 S. Blue Island Ave.',60608,41.864,-87.6558
+"'Auburn Gresham',",'1050 W. 79th St.',60620,41.7506,-87.6509
+"'North Center',",'2324 W. Irving Park Road',60618,41.9541,-87.687
+"'East Garfield Park',",'3300 W. Maypole Ave.',60624,41.8837,-87.7089
+"'West Pullman',",'12045 S. Emerald Ave.',60628,41.6747,-87.6405
+"'Humboldt Park',",'3220 W. Division St.',60651,41.9029,-87.7076
+"'North Lawndale',",'1313-15 S. Fairfiled Ave.',60608,41.8642,-87.6944
+"'Grand Boulevard',",'5000 S. Indiana Ave.',60615,41.8038,-87.6212
+"'Lower West Side',",'2124 W. 19th St.',60608,41.8559,-87.6794
+"'West Pullman',",'11701 S. State St.',60628,41.6816,-87.6226
+"'Near South Side',",'1400 S. Indiana Ave.',60605,41.864,-87.6226
+"'Washington Park',",'6151 S. Michigan Ave.',60637,41.7823,-87.622
+"'Grand Boulevard',",'4427-33 S. Indiana Ave.',60653,41.814,-87.6212
+"'Uptown',",'5012 N. Winthrop Ave.',60640,41.9737,-87.6579
+"'Oakland',",'1128 E. Bowen Ave.',60653,41.8189,-87.599
+"'North Lawndale',",'4041 W. Roosevelt Road',60624,41.866,-87.7267
+"'Belmont Cragin',",'4800 W. George St.',60641,41.9335,-87.7468
+"'Douglas',",'17 W. 36th St.',60609,41.8291,-87.6272
+"'West Town',",'1600 N. Talman Ave.',60647,41.9103,-87.6935
+"'Oakland',",'4143 S. Lake Park Ave.',60653,41.8188,-87.6
+"'Englewood',",'624 W. 61st St.',60621,41.7836,-87.6411
+"'Woodlawn',",'6321 S. Cottage Grove Ave.',60637,41.7798,-87.6058
+"'Lower West Side',",'1714 W. 19th St.',60608,41.856,-87.6694
+"'North Lawndale',",'1262-1300 S. Washtenaw Ave.',60608,41.8647,-87.6935
+"'Avalon Park',",'1200 E. 78th St.',60619,41.7533,-87.5955
+"'Humboldt Park',",'528 N. Troy St.',60624,41.8912,-87.7053
+"'Chicago Lawn',",'3214 W. 63rd Pl',60629,41.7781,-87.7039
+"'Grand Boulevard',",'460 E. 41st St.',60653,41.8204,-87.6144
+"'Near West Side',",'1939 W. Lake St.',60612,41.8849,-87.6759
+"'North Lawndale',",'3836 W. Cermak Road',60623,41.8517,-87.7213
+"'Lower West Side',",'967 W. 19th St.',60608,41.8566,-87.6507
+"'Washington Park',",'5701 S. Michigan Ave.',60653,41.791,-87.6222
+"'Edgewater',",'5650 N. Kenmore Ave.',60660,41.9852,-87.6568
+"'Grand Boulevard',",'731 E. 50th Pl',60615,41.803,-87.6076
+"'South Shore',",'7018 S. Cregier Ave.',60649,41.7674,-87.5814
+"'South Chicago',",'3200 E. 92nd St.',60617,41.7284,-87.5468
+"'North Park',",'5801 N. Pulaski Road',60646,41.9859,-87.7284
+"'Near South Side',",'2031 S. Clark St.',60616,41.8544,-87.63
+"'Roseland',",'240 W. 107th Place',60628,41.699,-87.6295
+"'Lakeview',",'3600 N. Halsted St.',60613,41.9474,-87.6496
+"'West Town',",'710 W. Grand Ave.',60654,41.8913,-87.6463
+"'Auburn Gresham',",'8132-44 S. Racine Ave.',60620,41.7459,-87.6538
+"'West Town',",'1527-31 N. Wicker Park Ave.',60622,41.9088,-87.6769
+"'East Garfield Park',",'15 S. Homan Ave.',60624,41.8804,-87.7108
+"'Logan Square',",'3503 W. Armitage Ave',60647,41.9172,-87.7137
+"'Humboldt Park',",'3118 W. Franklin Blvd.',60624,41.8902,-87.7047
+"'Woodlawn',",'1410 E. 62nd St.',60637,41.7825,-87.591
+"'Hegewisch',",'13550 S. Avenue O',60633,41.6485,-87.5401
+"'South Lawndale',",'3515-17 W. 23rd St.',60623,41.8498,-87.7132
+"'North Lawndale',",'1331 S. Independence Blvd.',60623,41.8634,-87.7193
+"'Humboldt Park',",'532 N. Trumbull Ave.',60624,41.8912,-87.7127
+"'Near South Side',",'30 W. Cermak Road',60616,41.853,-87.6282
+"'Uptown',",'847-49 W. Sunnyside Ave.',60640,41.9635,-87.6518
+"'Gage Park',",'3244 W. 59th St.',60629,41.7863,-87.7051
+"'Lower West Side',",'2021 S. Morgan St.',60608,41.8546,-87.6513
+"'Near North Side',",'1333 N. Kingsbury St.',60622,41.9057,-87.6496
+"'Grand Boulevard',",'4950 S. Langley Ave.',60615,41.8044,-87.609
+"'West Town',",'1723-33 N. Humboldt Blvd.',60647,41.9128,-87.7018
+"'Logan Square',",'2501 W. Armitage Ave.',60647,41.9174,-87.6899
+"'Austin',",'334 N. Menard Ave.',60644,41.8867,-87.7701
+"'Humboldt Park',",'3543 W. Chicago Ave.',60651,41.8954,-87.7156
+"'Douglas',",'3640 S. State St.',60609,41.8279,-87.6266
+"'Washington Park',",'346 E. 53rd St.',60615,41.7985,-87.6175
+"'Humboldt Park',",'3224 W. Ohio St.',60624,41.892,-87.7076
+"'Englewood',",'5628-30 S. Halsted St.',60621,41.7916,-87.6452
+"'Humboldt Park',",'3939-59 W. North Ave.',60647,41.9098,-87.7256
+"'Uptown',",'4946 N. Sheridan Road',60640,41.9729,-87.6551
+"'Near West Side',",'1519 W. Warren Blvd.',60607,41.8823,-87.666
+"'Grand Boulevard',",'4340-2 S. Champlain St.',60653,41.8166,-87.6106
+"'New City',",'4845 S. Western Blvd.',60609,41.8053,-87.6836
+"'Albany Park',",'4814-58 N. Kedzie Ave.',60625,41.9689,-87.7086
+"'North Lawndale',",'1254-56 S. Fairfiled Ave.',60608,41.8649,-87.6947
+"'Washington Park',",'6253 S. Michigan Ave.',60653,41.7804,-87.6218
+"'Rogers Park',",'6808 N. Wayne Ave.',60626,42.0058,-87.6651
+"'West Town',",'1045 N. Sacramento Blvd.',60622,41.9005,-87.7016
+"'Oakland',",'1110 E. Bowen Ave.',60653,41.8187,-87.5996
+"'Woodlawn',",'6230 S. Dorchester Ave.',60637,41.7814,-87.5915
+"'Woodlawn',",'6134 S. Cottage Grove Ave.',60637,41.783,-87.6061
+"'Logan Square',",'2451-57 N. Sacramento Ave.',60612,41.9263,-87.7022
+"'Chatham',",'8300 S. Cottage Grove Ave.',60619,41.7439,-87.6052
+"'Chicago Lawn',",'7430 S. Rockwell St.',60629,41.7582,-87.6881
+"'Hyde Park',",'1330 E. 53rd St.',60615,41.7996,-87.5938
+"'North Lawndale',",'1910 S. Albany Ave.',60623,41.8551,-87.7031
+"'Douglas',",'15 W. 37th St.',60609,41.8272,-87.6272
+"'North Lawndale',",'1218-20 S. Washtenaw Ave.',60608,41.8659,-87.6935
+"'Edgewater',",'5700 N. Sheridan Road',60660,41.9856,-87.6554
+"'Oakland',",'4131 S. Lake Park Ave.',60653,41.8191,-87.6002
+"'Austin',",'504 S. Laramie Ave.',60644,41.8738,-87.755
+"'Hyde Park',",'5105 S. Harper Ave.',60615,41.8023,-87.589
+"'West Elsdon',",'3630 W. 51st St.',60632,41.8008,-87.7147
+"'Logan Square',",'1955 N. Richmond St.',60647,41.9173,-87.7003
+"'Woodlawn',",'6129 S. Cottage Grove Ave.',60637,41.7832,-87.6058
+"'Lower West Side',",'963 W Cullerton St.',60608,41.8552,-87.6506
+"'West Town',",'1038-40 N. Ashland Ave.',60622,41.9009,-87.6676
+"'Avondale',",'3060 N. Milwaukee Ave.',60618,41.9367,-87.7201
+"'Douglas',",'10 W. 37th St.',60609,41.8274,-87.6269
+"'North Park',",'5801 N. Pulaski Road',60646,41.9859,-87.7284
+"'Oakland',",'1060 E. 41st St.',60653,41.8204,-87.6004
+"'East Garfield Park',",'2822 W. Jackson Blvd.',60612,41.8775,-87.6971
+"'Humboldt Park',",'3248 W. Division St.',60651,41.9029,-87.7086
+"'North Lawndale',",'2642-44 W. 12 th Pl',60608,41.8658,-87.6927
+"'Montclare',",'6650 W. Belden Ave.',60707,41.9213,-87.7921
+"'North Lawndale',",'1251 S. Sawyer Ave.',60623,41.8648,-87.7067
+"'Belmont Cragin',",'5038 W. Armitage Ave.',60639,41.917,-87.7525
+"'Woodlawn',",'6200 S. University Ave.',60637,41.7822,-87.598
+"'Englewood',",'500 W. Englewood Ave.',60621,41.7809,-87.6376
+"'West Town',",'2654 W. North Ave.',60647,41.9104,-87.6943
+"'Austin',",'1816 N. St. Louis Ave.',60647,41.9142,-87.7136
+"'West Pullman',",'825 W. 118th St.',60643,41.6795,-87.643
+"'East Garfield Park',",'2800 W. Fulton St.',60612,41.8866,-87.6966
+"'Rogers Park',",'7450 N. Rogers Ave.',60626,42.0171,-87.6732
+"'Douglas',",'340 E. 38th St.',60653,41.8258,-87.6175
+"'Uptown',",'900 W. Windsor Ave.',60640,41.9646,-87.6525
+"'Near West Side',",'2425 W. Adams St.',60612,41.8784,-87.6874
+"'Uptown',",'811 W. Agatite Ave.',60640,41.9626,-87.6504
+"'Grand Boulevard',",'4500 S. Wabash Ave.',60653,41.813,-87.6247
+"'Lakeview',",'927 W. Irving Park Rd.',60613,41.9544,-87.6532
+"'West Town',",'1623 N. Talman Ave.',60647,41.911,-87.6932
+"'Logan Square',",'2201-31 N. Milwaukee Ave.',60647,41.9209,-87.6939
+"'Humboldt Park',",'1750 N. Spaulding Ave.',60647,41.9133,-87.7103
+"'North Lawndale',",'1302-06 S. Washtenaw Ave.',60608,41.8645,-87.6935
+"'Woodlawn',",'817 E. 64th St.',60637,41.7785,-87.6051
+"'Grand Boulevard',",'4257 S. King Dr.',60653,41.8167,-87.6166
+"'West Garfield Park',",'3916 W. Washington Blvd.',60624,41.882,-87.724
+"'Near West Side',",'1222 W. Roosevelt Road',60607,41.8671,-87.6577
+"'Washington Park',",'5751-59 S. Michigan Ave.',60637,41.7896,-87.6222
+"'Fuller Park',",'5041 S. Princeton Ave.',60609,41.8024,-87.6331
+"'Auburn Gresham',",'8019-55 S. Halsted St.',60620,41.7482,-87.6438
+"'New City',",'850 W. Garfield Blvd.',60609,41.7944,-87.6472
+"'Roseland',",'10450 S. Michigan Ave.',60628,41.7039,-87.6208
+"'Douglas',",'3604 S. State St.',60609,41.829,-87.6267
+"'Grand Boulevard',",'611 E. 50th St.',60615,41.8039,-87.6108
+"'Oakland',",'1137 E. Bowen Ave.',60653,41.8189,-87.5985
+"'North Lawndale',",'1317-19 S. Fairfield Ave.',60608,41.8641,-87.6944
+"'West Ridge',",'6411 N. Rockwell Ave.',60645,41.998,-87.6946
+"'Uptown',",'4040 N. Sheridan Road',60613,41.9557,-87.6547
+"'Washington Park',",'6100-24 S. Prairie Ave.',60637,41.7837,-87.6191
+"'Grand Boulevard',",'722-46 E. Bowen Ave.',60653,41.8196,-87.6085
+"'South Chicago',",'9200 S. Burley Ave.',60617,41.7282,-87.5458
+"'Humboldt Park',",'3114 W. Franklin Blvd.',60624,41.8902,-87.7046
+"'Near North Side',",'625 W. Division St.',60622,41.9036,-87.6443
+"'Grand Boulevard',",'4333 S. Michigan Ave.',60653,41.8156,-87.6229
+"'Edgewater',",'1062 W. Bryn Mawr Ave.',60660,41.9838,-87.6577
+"'North Lawndale',",'3440 W. Roosevelt Road',60624,41.8664,-87.7122
+"'Lakeview',",'3208 N. Shefield Ave.',60657,41.9402,-87.6543
+"'Lower West Side',",'1646-50 S. Throop St.',60608,41.8583,-87.659
+"'Greater Grand Crossing',",'1450 E. 70th St.',60619,41.768,-87.5891
+"'South Shore',",'2804 E. 77th Place',60649,41.7547,-87.555
+"'Humboldt Park',",'3554 W. Ohio St.',60624,41.8919,-87.716
+"'West Town',",'1664 W. Division St.',60622,41.9034,-87.67
+"'North Lawndale',",'1224 S. Washtenaw Ave.',60608,41.8657,-87.6935
+"'Near South Side',",'30 W. Cermak Road',60616,41.853,-87.6282
+"'West Town',",'2656 W. North Ave.',60647,41.9104,-87.6944
+"'Portage Park',",'4015-23 N. Narragansett Ave.',60634,41.9534,-87.7864
+"'Humboldt Park',",'607 N. Sawyer Ave.',60624,41.8922,-87.7075
+"'Oakland',",'1113 E. Bowen Ave.',60653,41.8186,-87.5994
+"'Near South Side',",'300 E. 26th Street',60616,41.8458,-87.6204
+"'Ashburn',",'2815 W. 79th St.',60652,41.7497,-87.6933
+"'North Lawndale',",'1260 S. Fairfield Ave.',60608,41.8647,-87.6947
+"'Grand Boulevard',",'4752 S. Wabash Ave.',60614,41.8077,-87.6246
+"'Logan Square',",'2517 W. Fullerton Ave.',60647,41.9248,-87.6907
+"'Chicago Lawn',",'2626 W. 63rd St.',60629,41.7793,-87.6897
+"'North Lawndale',",'1859 S. Pulaski Road',60623,41.8553,-87.7247
+"'Near North Side',",'545 W. Division St.',60610,41.9036,-87.6431
+"'Humboldt Park',",'1745 N. Keystone Ave.',60639,41.913,-87.7275
+"'Uptown',",'5040 N. Kenmore Ave.',60640,41.9745,-87.6565
+"'Humboldt Park',",'526 N. St. Louis Ave.',60624,41.8909,-87.7139
+"'Washington Heights',",'8915 S. Loomis St.',60620,41.7316,-87.6579
+"'Lower West Side',",'1712 W. 17th St.',60608,41.8588,-87.6694
+"'Douglas',",'3800 S. King Dr.',60653,41.8256,-87.6172
+"'Edgewater',",'6214 N. Winthrop Ave.',60660,41.995,-87.6585
+"'Oakland',",'4130 S. Oakenwald Ave.',60653,41.8194,-87.5989
+"'Austin',",'4623 W. Gladys Ave.',60644,41.8759,-87.7413
+"'North Lawndale',",'1220 S. Talman Ave.',60608,41.8658,-87.6923
+"'Irving Park',",'4054 N. Kedzie Ave.',60618,41.9555,-87.7082
+"'Woodlawn',",'6450 S. Stony Island Ave.',60637,41.7773,-87.5865
+"'Grand Boulevard',",'747 E. 47th St.',60653,41.8094,-87.6071
+"'South Lawndale',",'2243 S. Central Park Ave.',60623,41.8504,-87.7148
+"'North Lawndale',",'3128 W. Douglas Blvd.',60623,41.8631,-87.7043
+"'Riverdale',",'13037 S. Daniel Dr.',60627,41.6579,-87.6159
+"'Douglas',",'3138-40 S. Indiana Ave.',60616,41.8372,-87.622
+"'Lower West Side',",'1313 W. 19th St.',60608,41.856,-87.6594
+"'Logan Square',",'2328-48 N. California Ave.',60647,41.9237,-87.6975
+"'South Shore',",'7538 S. Kingston Ave.',60649,41.7579,-87.5629
+"'Austin',",'5565-71 W. Quincy Ave.',60644,41.8773,-87.7642
+"'Washington Park',",'6143-51 S. Indiana Ave.',60637,41.7825,-87.6204
+"'Humboldt Park',",'3053 W. Franklin Blvd.',60612,41.89,-87.7037
+"'Uptown',",'4727 N. Malden St.',60640,41.968,-87.6626
+"'Washington Park',",'5947 S. Indiana Ave.',60653,41.786,-87.6205
+"'Chatham',",'8200 S. Ellis Ave.',60619,41.7458,-87.6003
+"'Uptown',",'4431 N. Clifton Ave.',60640,41.9627,-87.6582
+"'Lakeview',",'1501 W. Melrose St.',60657,41.9405,-87.6664
+"'Austin',",'335 N. Menard Ave.',60644,41.8867,-87.7698
+"'Englewood',",'901 W. 63rd Street',60621,41.7796,-87.6473
+"'Logan Square',",'2404-14 W. Cortland St.',60647,41.9159,-87.6876
+"'West Ridge',",'5822 N. Western Ave.',60659,41.9875,-87.6897
+"'Rogers Park',",'6928 N. Wayne Ave.',60626,42.0076,-87.6652
+"'Douglas',",'3633 S. State St.',60609,41.8287,-87.6264
+"'North Center',",'1911-21 W. Irving Park Rd.',60613,41.9541,-87.6768
+"'Near West Side',",'1401 W. Roosevelt Road',60608,41.8668,-87.6617
+"'Grand Boulevard',",'633 E. 50th St.',60615,41.8039,-87.6101
+"'Washington Park',",'325-43 E. 55th Place',60637,41.7938,-87.6181
+"'Grand Boulevard',",'4034 S. State St.',60609,41.8209,-87.6265
+"'Lower West Side',",'1414-48 W. 21st St.',60608,41.8543,-87.6619
+"'Near North Side',",'300 W. Hill St.',60610,41.9022,-87.6359
+"'Grand Boulevard',",'701-27 E. 43rd St.',60653,41.8167,-87.6091
+"'Washington Park',",'215 E. 61st St.',60637,41.7837,-87.6199
+"'Roseland',",'10400-30 S. Michigan Ave.',60628,41.7053,-87.6206
+"'Douglas',",'3612 S. State St.',60609,41.8287,-87.6267
+"'Oakland',",'3859 S. Vincennes Ave.',60653,41.8239,-87.6125
+"'Belmont Cragin',",'2715 N. Cicero Ave.',60639,41.9301,-87.7464
+"'North Lawndale',",'1550 S. Hamlin Ave.',60623,41.8592,-87.7202
+"'Lakeview',",'3228 N. Clark St.',60657,41.9406,-87.6514
+"'West Town',",'2753 W. Division St.',60622,41.9028,-87.6965
+"'East Garfield Park',",'750 S. Homan Ave.',60624,41.8712,-87.7108
+"'Humboldt Park',",'3507 W. North Ave.',60647,41.9099,-87.7147
+"'West Town',",'1241 N. Milwaukee Ave.',60622,41.9043,-87.6678
+"'Logan Square',",'3734 W. Cortland St.',60647,41.9155,-87.7206
+"'Humboldt Park',",'3108 W. Franklin Blvd.',60624,41.8902,-87.7044
+"'Woodlawn',",'848-58 E. 65th St.',60637,41.7769,-87.604
+"'Auburn Gresham',",'1626 W. 87th St.',60620,41.7359,-87.6641
+"'Englewood',",'6415 S. Sangamon St.',60621,41.7774,-87.6482
+"'Oakland',",'3755 S. Cottage Grove Ave.',60653,41.8263,-87.6079
+"'Humboldt Park',",'3215 W. Huron St.',60624,41.8936,-87.7072
+"'East Garfield Park',",'3609 W. Arthington St.',60624,41.8698,-87.7159
+"'West Garfield Park',",'6 N. Hamlin Blvd.',60624,41.881,-87.7209
+"'Near West Side',",'50 N. Hoyne Ave.',60612,41.8828,-87.6793
+"'New City',",'4707 S. Marshfield Ave.',60609,41.8084,-87.666
+"'Montclare',",'2601-19 N. Harlem Ave.',60707,41.9272,-87.8062
+"'North Lawndale',",'1345 S. Fairfield Ave.',60608,41.8634,-87.6944
+"'West Ridge',",'1818 W. Peterson Ave.',60660,41.9908,-87.676
+"'Uptown',",'5009 N. Sheridan Road',60640,41.9736,-87.6548
+"'Grand Boulevard',",'4420-24 S. Michigan Ave.',60653,41.8141,-87.6231
+"'Near North Side',",'459 W. Division St.',60622,41.9036,-87.6405
+"'Norwood Park',",'5700 N. Harlem Ave.',60631,41.9847,-87.8071
+"'Jefferson Park',",'5400 N. Northwest Hwy.',60630,41.9784,-87.7744
+"'Oakland',",'1120 E. Bowen Ave.',60653,41.8189,-87.5992
+"'Roseland',",'11045 S. Wentworth Ave.',60628,41.693,-87.6278
+"'Chicago Lawn',",'2626 W. 63rd St.',60629,41.7793,-87.6897
+"'Logan Square',",'3230 W. Armitage Ave',60647,41.9175,-87.7083
+"'Hyde Park',",'5330 S. Harper Ave.',60615,41.7986,-87.5892
+"'Brighton Park',",'3246 W. 47th St.',60632,41.8082,-87.7059
+"'Dunning',",'4239 N. Oak Park Ave.',60634,41.9577,-87.7975
+"'West Town',",'945 N. Western Ave.',60622,41.8989,-87.6868
+"'Lower West Side',",'2014 S. Racine Ave.',60608,41.8547,-87.6565
+"'Austin',",'4650 W. Van Buren St.',60644,41.8752,-87.7422
+"'Woodlawn',",'6227-29 S. Cottage Grove Ave.',60637,41.7814,-87.6058
+"'North Lawndale',",'1310-14 S. Washtenaw Ave.',60608,41.8643,-87.6935
+"'West Englewood',",'2115 W. 63rd St',60636,41.7792,-87.677
+"'Portage Park',",'4655 W. Burteau Ave.',60641,41.9564,-87.7452
+"'Near North Side',",'544 W. Oak St.',60610,41.9005,-87.643
+"'South Lawndale',",'2700 S. Drake Ave.',60623,41.8425,-87.7137
+"'Greater Grand Crossing',",'6956 S. Vincennes Ave.',60621,41.7675,-87.6272
+"'Near West Side',",'320 S. Maplewood Ave.',60612,41.877,-87.6902
+"'Auburn Gresham',",'8440 S. Parnell Ave.',60620,41.7402,-87.6378
+"'Oakland',",'4116 S. Oakenwald Ave.',60653,41.8196,-87.5993
+"'Humboldt Park',",'3341 W. Ohio St.',60624,41.8917,-87.7106
+"'Humboldt Park',",'505 N. Troy St.',60612,41.8905,-87.705
+"'Uptown',",'1032 W. Montrose Ave',60613,41.9619,-87.6561
+"'North Lawndale',",'1255 S. Fairfield Ave.',60608,41.8649,-87.6944
+"'Washington Park',",'5801 S. Michigan Ave.',60637,41.7892,-87.6222
+"'Garfield Ridge',",'5011 W. 47th St.',60638,41.8074,-87.7486
+"'Lower West Side',",'2015 S. Morgan St.',60608,41.8548,-87.6513
+"'West Town',",'1838 W. Chicago Ave.',60622,41.8961,-87.6737
+"'Grand Boulevard',",'400 E. 41st St.',60653,41.8203,-87.6165
+"'North Lawndale',",'2639 W. 12th Pl',60608,41.8656,-87.6925
+"'Woodlawn',",'6600 S. Greenwood Ave.',60637,41.7749,-87.5999
+"'South Shore',",'2355 E. 67th St.',60649,41.7734,-87.5678
+"'Woodlawn',",'803 E. 61st St.',60637,41.784,-87.6058
+"'Humboldt Park',",'3525 W. Ohio St.',60624,41.8917,-87.7149
+"'Douglas',",'2600 S. King Dr.',60616,41.8457,-87.6178
+"'Austin',",'223-9 S. Central Ave.',60644,41.8776,-87.7646
+"'Lincoln Square',",'1801-15 W. Argyle St.',60640,41.9724,-87.6749
+"'Lower West Side',",'1427 W. Cullerton St.',60608,41.855,-87.6623
+"'Englewood',",'6565 S. Yale Ave.',60621,41.7747,-87.6315
+"'East Garfiled Park',",'3512-46 W. Fifth Ave.',60624,41.8764,-87.7136
+"'North Lawndale',",'2707 W. 12th St.',60808,41.8664,-87.6938
+"'Washington Park',",'300-10 E. 61st St.',60637,41.7839,-87.6189
+"'Grand Boulevard',",'223 E. 41st St.',60653,41.8201,-87.6204
+"'Humboldt Park',",'1152 N. Christiana Ave.',60647,41.9026,-87.7108
+"'North Lawndale',",'1129 S. Sacramento Ave.',60612,41.8674,-87.7007
+"'Near West Side',",'2237 W. Maypole Ave.',60612,41.8838,-87.6828
+"'South Chicago',",'8425 S. Saginaw Ave.',60617,41.742,-87.5599
+"'Uptown',",'927 W. Wilson Ave.',60640,41.9653,-87.6535
+"'Humboldt Park',",'521 N. St. Louis Ave.',60624,41.8909,-87.7136
+"'Washington Heights',",'848 W. 103rd St.',60643,41.707,-87.6448
+"'Grand Boulevard',",'401 E. Bowen Ave.',60653,41.8192,-87.6165
+"'Pullman',",'15 E. 112th Place',60628,41.6898,-87.6224
+"'Near North Side',",'1151 N. Cleveland Ave.',60622,41.903,-87.641
+"'Near South Side',",'2030 S. State St.',60616,41.8545,-87.6273
+"'Washington Park',",'110 E. 60th St.',60637,41.7857,-87.6217
+"'Near West Side',",'1314 W. 15th St.',60608,41.8617,-87.6596
+"'Grand Boulevard',",'636 E. 50th St.',60615,41.8041,-87.6099
+"'West Town',",1456 N. Rockwell Ave.,60622,41.9055,-87.6922
+"'Montclare',",6614 W. Diversey Ave.,60707,41.931,-87.7908
+"'West Town',",1451 N. Washtenaw Ave.,60622,41.9071,-87.6946
